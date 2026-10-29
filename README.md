@@ -1,2 +1,2 @@
-# Rep1
-Rules of zrr 143 server
+# Information from the Ussr Alliance
+В этом репо хранится информация альянса СССР ZRR143 
